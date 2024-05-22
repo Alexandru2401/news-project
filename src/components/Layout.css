@@ -1,0 +1,11 @@
+/* Ma asigur ca paginile mele ocupa minim toata inaltimea ecranului */
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/* Cu prop de mai jos ii spunem tag-ului de main sa creasca cat are loc, astfel incat footer sa fie in josul pag */
+.layout main {
+    flex: 1;
+    text-align: center;
+}
