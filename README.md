@@ -1,16 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-# news-project
+This was the last project I tackled in the ItSchool course. It's a website where news is posted - i opted for tech and football news, but other areas can be added. The technologies used were Html, Css (Boostrap), JavaScript, React. 
+Below I attach the Netlify link where you can see a live demo of the application. 
+"https://news-it-app.netlify.app"
