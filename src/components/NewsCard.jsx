@@ -28,7 +28,7 @@ export default function NewsCard(props) {
             </Link>
             {/* Daca avem button de eliminare de la favorite, il afisam, adica daca avem propietatea hasCloseButton */}
             {hasCloseButton && (
-                <Button variant="ligth" onClick={()=>{
+                <Button variant="light" onClick={()=>{
                     handleRemoveFromFavourite(newsId)
                 }}><span className="material-icons text-dark">close</span></Button>
             )}
