@@ -12,7 +12,7 @@ Below I attach the Netlify link where you can see a live demo of the application
 1. Clone this repository. You will ned node and npm installed globally on your machine.
 
 2. Change directory: 
-cd real-estate-main 
+cd news-project 
 
 3. Install dependencies:
 ### `npm i`
