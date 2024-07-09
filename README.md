@@ -15,7 +15,7 @@ To run this project will need to follow these steps:
 cd real-estate-main 
 
 3. Install dependencies:
-   ### `npm i`
+### `npm i`
 To start the server:
 ### `npm start`
 Runs the app in the development mode.\
@@ -48,6 +48,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-#Features 
+# Features 
 Some features that will be implementing in the futured:
-Add a new category of news. 
+1. Add a new category of news. 
